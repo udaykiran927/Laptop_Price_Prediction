@@ -1,0 +1,690 @@
+Brand,Rating,Processor,Display,OS,RAMSize,RAMType,Storage_HDD,Storage_SSD,MRP
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,32990.0
+HP,4.4,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,49990.0
+ASUS,4.4,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,49990.0
+HP,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+DELL,4.3,Intel OptaneIntel Core i3 Processor,39.62,Windows,8,DDR4 ,1000,256,38990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+realme,4.4,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,46990.0
+ASUS,4.1,AMD Ryzen 7 Quad Core Processor,35.56,Windows,16,DDR4 ,0,512,44990.0
+HP,4.4,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,59990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+ASUS,4.3,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,256,32990.0
+ASUS,4.4,AMD Ryzen 5 Hexa Core Processor,43.94,Windows,8,DDR4 ,0,512,52990.0
+acer,4.3,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,256,29990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+ASUS,4.3,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,1000,256,47990.0
+ASUS,4.3,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,45990.0
+MSI,4.4,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,47990.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+APPLE,4.7,Apple M1 Processor,33.78,Mac,8,DDR4 ,0,256,88990.0
+HP,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,512,40990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+HP,4.3,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,65990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+acer,4.3,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,58990.0
+realme,4.4,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,46990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+acer,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,256,24990.0
+acer,4.4,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,47990.0
+ASUS,4.4,AMD Ryzen 7 Octa Core Processor,43.94,Windows,8,DDR4 ,0,512,73990.0
+Lenovo,4.2,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,53490.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+Lenovo,4.3,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,51990.0
+ASUS,4.7,Intel Core i5 Processor,35.56,Windows,16,DDR4 ,0,512,66990.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,194990.0
+acer,4.4,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,16,DDR4 ,0,512,51990.0
+HP,3.9,AMD Athlon Dual Core Processor,35.56,Windows,8,DDR4 ,0,256,25990.0
+acer,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,35990.0
+ASUS,4.2,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,43990.0
+Lenovo,4.3,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,44990.0
+Lenovo,3.7,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,64490.0
+ASUS,4.4,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,256,40990.0
+ASUS,4.4,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,512,38990.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+HP,4.2,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,58990.0
+realme,4.4,Intel Evo Core i5 ProcessorIntel Core i5 Processor,35.56,Windows,8,DDR4 ,0,512,59990.0
+acer,4.4,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,47990.0
+HP,4.2,AMD Ryzen 3 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,37499.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+ASUS,4.1,AMD Ryzen 9 Octa Core Processor,35.56,Windows,8,DDR4 ,0,1000,94990.0
+ASUS,4.3,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,32990.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+ASUS,4.0,Intel Celeron Dual Core Processor,35.56,Windows,4,DDR4 ,0,256,23990.0
+HP,4.3,AMD Ryzen 5 Hexa Core Processor,35.56,Windows,16,DDR4 ,0,512,48990.0
+APPLE,4.7,Apple M2 Processor,33.78,Mac,8,Unified Memory ,0,512,139990.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,512,89990.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.5,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,1000,59990.0
+DELL,4.6,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,16,DDR4 ,0,512,70990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,194990.0
+Lenovo,4.3,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,44990.0
+Infinix,4.2,Intel Celeron Quad Core Processor,35.56,Windows,8,LPDDR4X ,0,256,22990.0
+HP,4.3,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,46990.0
+ASUS,4.3,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,1000,256,50990.0
+Infinix,4.2,Intel Core i3 Processor,35.56,Windows,8,LPDDR4X ,0,256,28990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+MSI,4.3,Intel Core i7 Processor,39.62,Windows,16,DDR4 ,0,512,84990.0
+APPLE,4.8,Apple M1 Pro Processor,36.07,Mac,16,Unified Memory ,0,512,181990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+MSI,4.6,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,109990.0
+Infinix,4.1,Intel Core i5 Processor,35.56,Windows,16,LPDDR4X ,0,512,37990.0
+APPLE,5.0,Apple M2 Processor,34.54,Mac,8,Unified Memory ,0,512,139990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+Lenovo,4.4,Intel Core i3 Processor,39.62,Windows,4,DDR4 ,0,256,29990.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+Lenovo,4.5,AMD Ryzen 7 Octa Core Processor,39.62,Windows,8,DDR4 ,0,512,73490.0
+ASUS,4.4,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,1000,256,52990.0
+HP,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,41890.0
+DELL,4.2,Intel Pentium Silver Processor,39.62,Windows,8,DDR4 ,0,256,30428.0
+acer,4.1,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,34990.0
+Lenovo,4.4,Intel Core i3 Processor,39.62,Windows,4,DDR4 ,0,256,29990.0
+APPLE,4.7,Apple M1 Processor,33.78,Mac,8,DDR4 ,0,256,88990.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+MSI,4.4,Intel Core i7 Processor,39.62,Windows,8,DDR4 ,0,512,65990.0
+ASUS,4.1,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,33490.0
+HP,4.1,Intel Core i5 Processor,35.56,Windows,16,DDR4 ,0,512,60990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+HP,4.3,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,46990.0
+ASUS,4.3,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,512,59990.0
+MSI,4.2,Intel Core i7 Processor,39.62,Windows,16,DDR4 ,0,1000,114990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,Intel Core i7 Processor,40.64,Windows,16,DDR4 ,0,1000,119990.0
+Infinix,4.3,Intel Core i5 Processor,39.62,Windows,8,LPDDR4X ,0,512,42990.0
+ASUS,4.6,Intel Core i5 Processor,39.62,Windows,16,LPDDR5 ,0,512,89990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+MSI,4.5,AMD Ryzen 7 Octa Core Processor,39.62,Windows,8,DDR4 ,0,512,79990.0
+ASUS,4.8,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,1000,70990.0
+Lenovo,4.3,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,256,33900.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+realme,4.4,Intel Evo Core i5 ProcessorIntel Core i5 Processor,35.56,Windows,8,DDR4 ,0,512,59990.0
+Infinix,4.8,Intel Core i7 Processor,39.62,Windows,16,LPDDR4X ,0,512,52990.0
+APPLE,4.7,Apple M1 Processor,33.78,Mac,16,DDR4 ,0,512,124990.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+RedmiBook,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,256,31990.0
+acer,4.3,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,16,DDR4 ,0,512,66990.0
+DELL,5.0,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,512,89081.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+APPLE,4.7,Apple M1 Processor,33.78,Mac,8,DDR4 ,0,512,104990.0
+Lenovo,4.2,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,53490.0
+ASUS,4.5,Intel Core i3 Processor,35.56,Windows,8,LPDDR4X ,0,256,45990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.5,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,45990.0
+MSI,4.4,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,51990.0
+HP,4.3,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,512,75990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,256,36990.0
+HP,3.7,Intel Core i5 Processor,35.56,Windows,16,DDR4 ,0,512,78800.0
+HP,4.2,AMD Athlon Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,29390.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+Infinix,4.3,Intel Core i3 Processor,35.56,Windows,8,LPDDR4X ,0,256,30990.0
+Lenovo,4.1,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,62490.0
+ASUS,3.8,Intel Core i7 Processor,35.56,Windows,16,DDR4 ,0,512,89990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+HP,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,58899.0
+MSI,4.5,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,85990.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+Lenovo,4.5,AMD Ryzen 7 Octa Core Processor,39.62,Windows,8,DDR4 ,0,512,73490.0
+Lenovo,4.3,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,1000,256,63490.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.2,AMD Ryzen 5 Quad Core Processor,35.56,Windows,8,DDR4 ,0,512,38990.0
+HP,4.3,Intel Core i5 Processor,40.89,Windows,8,DDR4 ,0,512,67990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+HP,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39790.0
+APPLE,4.8,Apple M1 Pro Processor,41.15,Mac,16,Unified Memory ,0,1000,241990.0
+APPLE,4.6,Apple M1 Processor,33.78,Mac,8,DDR4 ,0,512,104990.0
+DELL,4.1,AMD Ryzen 3 Dual Core Processor,35.56,Windows,8,DDR4 ,0,512,42190.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+ASUS,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.5,Intel Core i7 Processor,39.62,Windows,16,DDR5 ,0,1000,99990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+APPLE,4.3,Apple M1 Max Processor,41.15,Mac,32,Unified Memory ,0,1000,309490.0
+ASUS,4.4,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,1000,256,64990.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,512,89990.0
+ASUS,4.5,AMD Ryzen 7 Octa Core Processor,43.94,Windows,16,DDR4 ,0,512,85990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,194990.0
+Lenovo,4.3,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,44990.0
+APPLE,4.8,Apple M1 Pro Processor,36.07,Mac,16,Unified Memory ,0,1000,222990.0
+Ultimus,4.3,Intel Celeron Dual Core Processor,35.81,DOS,4,LPDDR4 ,0,128,15990.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+DELL,4.3,Intel OptaneIntel Core i3 Processor,39.62,Windows,8,DDR4 ,1000,256,45900.0
+ASUS,4.3,Intel Core i7 Processor,33.78,Windows,16,LPDDR4X ,0,512,79990.0
+ASUS,4.4,Intel Core i5 Processor,35.56,Windows,8,DDR4 ,0,512,56990.0
+DELL,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,256,34990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+DELL,3.4,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,43580.0
+Lenovo,5.0,AMD Ryzen 5 Hexa Core Processor,33.78,Windows,16,DDR4 ,0,512,74990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+Lenovo,4.3,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,37490.0
+Infinix,4.2,Intel Celeron Quad Core Processor,35.56,Windows,4,LPDDR4X ,0,128,20990.0
+MSI,4.6,Intel Core i7 Processor,39.62,Windows,16,DDR4 ,0,512,109990.0
+ASUS,4.7,Intel Core i5 Processor,33.78,Windows,16,LPDDR4 ,0,512,71990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+Infinix,4.3,Intel Core i3 Processor,35.56,Windows,8,LPDDR4X ,0,512,32990.0
+MSI,4.5,AMD Ryzen 5 Hexa Core Processor,35.56,Windows,8,DDR4 ,0,512,43990.0
+Lenovo,4.5,AMD Ryzen 7 Octa Core Processor,39.62,Windows,8,DDR4 ,0,512,73490.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,194990.0
+acer,3.9,AMD Ryzen 3 Dual Core Processor,35.56,Windows,8,DDR4 ,0,256,25990.0
+ASUS,4.4,Intel Core i9 Processor,39.62,Windows,16,DDR4 ,0,1000,122990.0
+acer,4.3,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,68990.0
+acer,4.3,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,59990.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+acer,4.4,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+Lenovo,4.0,Intel Celeron Dual Core Processor,35.56,Windows,4,DDR4 ,0,256,25950.0
+realme,4.2,Intel Core i5 Processor,35.56,Windows,16,LPDDR4X ,0,512,64999.0
+HP,4.4,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,60990.0
+ASUS,4.3,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,36990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+SAMSUNG,4.6,Intel Core i5 Processor,39.62,Windows,8,LPDDR4X ,0,256,59990.0
+APPLE,4.8,Apple M1 Pro Processor,41.15,Mac,16,Unified Memory ,0,512,222990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+DELL,4.3,Intel Core i9 Processor,39.62,Windows,16,DDR5 ,0,1000,235283.0
+DELL,4.0,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,38990.0
+ASUS,4.5,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,512,67990.0
+MSI,4.5,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,79990.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.5,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,512,67990.0
+MSI,4.5,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,79990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+ASUS,4.3,Intel Core i5 Processor,39.62,Windows,16,LPDDR5 ,0,512,89990.0
+ASUS,4.7,Intel Core i9 Processor,40.64,Windows,32,DDR5 ,0,1000,241990.0
+ASUS,4.3,Intel Core i5 Processor,35.56,Windows,8,DDR4 ,0,512,43490.0
+realme,4.4,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,46990.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+Vaio,4.0,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,40990.0
+APPLE,4.7,Apple M1 Processor,33.78,Mac,8,DDR4 ,0,256,94990.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+MSI,4.5,Intel Core i7 Processor,39.62,Windows,16,DDR4 ,0,1000,114990.0
+APPLE,4.6,Apple M2 Processor,33.78,Mac,8,Unified Memory ,0,256,121990.0
+ASUS,4.1,Intel Pentium Silver Processor,35.56,Windows,8,DDR4 ,0,256,27990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,194990.0
+Lenovo,4.3,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,44990.0
+DELL,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,40190.0
+Lenovo,4.1,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,34990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.7,Intel Core i7 Processor,35.56,Windows,16,LPDDR4X ,0,1000,94990.0
+Lenovo,4.4,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,69990.0
+ASUS,4.3,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,59990.0
+ASUS,5.0,Intel Core i5 Processor,35.56,Windows,16,DDR4 ,0,512,66990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+ASUS,4.3,Intel Core i7 Processor,33.78,Windows,16,LPDDR4X ,0,512,104990.0
+DELL,4.3,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,54900.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+Lenovo,4.7,AMD Ryzen 7 Octa Core Processor,40.64,Windows,16,DDR4 ,0,1000,136990.0
+DELL,4.3,AMD Ryzen 5 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,48184.0
+ASUS,4.5,Intel Core i5 Processor,35.56,Windows,16,DDR4 ,0,512,74990.0
+acer,4.8,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,60990.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+HP,4.2,AMD Ryzen 5 Hexa Core Processor,35.56,Windows,8,DDR4 ,0,512,49990.0
+DELL,4.4,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,67990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,194990.0
+Lenovo,4.3,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,44990.0
+Lenovo,4.3,Intel Core i5 Processor,35.56,Windows,8,DDR4 ,0,512,58000.0
+Infinix,4.3,Intel Core i3 Processor,35.56,Windows,8,LPDDR4X ,0,256,29990.0
+ASUS,4.3,AMD Ryzen 7 Octa Core Processor,34.04,Windows,16,LPDDR5 ,0,1000,114990.0
+HP,4.3,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,33990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+ASUS,4.4,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,16,DDR4 ,0,512,64990.0
+Lenovo,4.3,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,79990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+Infinix,4.2,Intel Core i3 Processor,35.56,Windows,8,LPDDR4X ,0,256,28990.0
+ASUS,4.5,AMD Ryzen 5 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,56990.0
+HP,4.7,AMD Ryzen 5 Hexa Core Processor,33.78,Windows,16,DDR4 ,0,512,81990.0
+MSI,4.5,Intel Core i7 Processor,39.62,Windows,16,DDR4 ,0,1000,129990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+HP,4.5,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,1000,256,79990.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+APPLE,4.7,Apple M2 Processor,34.54,Mac,8,Unified Memory ,0,512,139990.0
+ASUS,4.1,Intel Core i7 Processor,43.94,Windows,16,DDR5 ,0,1000,109990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,154990.0
+Lenovo,4.2,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,62990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,194990.0
+Lenovo,4.3,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,44990.0
+ASUS,4.4,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,512,47990.0
+DELL,4.6,AMD Ryzen 3 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,43667.0
+ASUS,4.5,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,135990.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+ASUS,4.4,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR5 ,0,512,98990.0
+Infinix,4.2,Intel Core i7 Processor,35.56,Windows,16,LPDDR4X ,0,512,46990.0
+ASUS,4.3,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,35990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,Intel Core i7 Processor,43.94,Windows,16,DDR5 ,0,1000,109990.0
+APPLE,4.3,Apple M2 Processor,34.54,Mac,8,Unified Memory ,0,512,139990.0
+DELL,4.3,Intel Core i5 Processor,35.56,Windows,8,DDR4 ,0,512,74770.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+HP,4.3,AMD Ryzen 3 Quad Core Processor,35.56,Windows,8,DDR4 ,0,512,40799.0
+ASUS,4.5,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,69490.0
+ASUS,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,512,39990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+ASUS,4.8,AMD Ryzen 5 Hexa Core Processor,33.78,Windows,16,LPDDR5 ,0,512,99990.0
+APPLE,4.8,Apple M1 Pro Processor,41.15,Mac,16,Unified Memory ,0,1000,241990.0
+acer,3.9,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,40990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+HP,4.4,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,60390.0
+HP,4.4,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,1000,256,69990.0
+ASUS,4.0,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,44990.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+ASUS,4.7,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,256,44990.0
+HP,4.4,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,60390.0
+ASUS,4.5,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,69490.0
+HP,4.3,AMD Ryzen 3 Quad Core Processor,35.56,Windows,8,DDR4 ,0,512,40799.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+HP,4.3,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,16,DDR4 ,0,512,55990.0
+Lenovo,4.3,Intel Core i5 Processor,35.56,Windows,16,LPDDR4X ,0,512,74990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+HP,4.4,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,1000,256,69990.0
+ASUS,4.0,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,44990.0
+ASUS,4.5,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,1000,59990.0
+APPLE,4.8,Apple M1 Pro Processor,41.15,Mac,16,Unified Memory ,0,512,222990.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+DELL,4.3,Intel Core i5 Processor,35.56,Windows,8,DDR4 ,0,512,74770.0
+ASUS,4.3,Intel Core i7 Processor,43.94,Windows,16,DDR5 ,0,1000,109990.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+acer,4.3,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,62990.0
+acer,3.9,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,40990.0
+MSI,4.5,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,58499.0
+Lenovo,4.3,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,1000,256,65990.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+DELL,4.0,Intel Core i7 Processor,39.62,Windows,16,DDR5 ,0,512,111990.0
+Lenovo,4.3,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,68490.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+Infinix,4.2,Intel Core i7 Processor,35.56,Windows,16,LPDDR4X ,0,512,46990.0
+acer,4.3,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,54990.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+APPLE,4.7,Apple M1 Processor,33.78,Mac,8,DDR4 ,0,1000,149990.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+MSI,4.3,Intel Core i7 Processor,39.62,Windows,16,DDR5 ,0,1000,200000.0
+Lenovo,4.3,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,256,37390.0
+ASUS,4.5,Intel Core i5 Processor,35.56,Windows,8,LPDDR4X ,0,512,63990.0
+DELL,4.1,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,512,43090.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,194990.0
+Lenovo,4.3,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,44990.0
+Lenovo,4.1,Intel Core i3 Processor,39.62,Windows,4,DDR4 ,0,256,44700.0
+HP,4.4,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,41150.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,256,33990.0
+MSI,4.3,Intel Core i7 Processor,43.94,Windows,16,DDR5 ,0,1000,190890.0
+ASUS,4.3,Intel Core i9 Processor,34.04,Windows,16,LPDDR5 ,0,1000,174990.0
+HP,3.5,AMD Ryzen 7 Octa Core Processor,40.89,Windows,16,DDR4 ,0,1000,118990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+ASUS,4.5,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,63980.0
+acer,4.4,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,54300.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+DELL,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,256,36400.0
+ASUS,4.3,Intel Core i3 Processor,39.62,Windows,4,DDR4 ,0,256,28590.0
+DELL,4.3,AMD Ryzen 5 Hexa Core Processor,40.64,Windows,16,DDR4 ,0,512,69999.0
+ASUS,5.0,Intel Core i9 Processor,39.62,Windows,32,DDR5 ,0,1000,301990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+Lenovo,4.3,Intel Core i3 Processor,38.1,Windows,8,DDR4 ,0,256,37000.0
+Lenovo,4.2,Intel Core i5 Processor,33.02,Windows,16,DDR4 ,0,512,64990.0
+Lenovo,4.5,AMD Ryzen 7 Octa Core Processor,39.62,Windows,8,DDR4 ,0,512,73490.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,194990.0
+DELL,4.3,Intel Core i3 Processor,38.0,Windows,8,DDR4 ,0,256,42690.0
+ASUS,5.0,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,140990.0
+Lenovo,4.3,Intel Core i3 Processor,38.1,Windows,4,DDR4 ,0,256,38990.0
+HP,4.3,Intel Core i7 Processor,34.29,Windows,16,LPDDR4X ,0,512,128990.0
+acer,4.3,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,54999.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+acer,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,1000,256,60130.0
+acer,4.3,Intel Pentium Silver Processor,35.56,Windows,8,DDR4 ,0,256,29490.0
+DELL,4.1,Intel Core i5 Processor,35.56,Windows,8,DDR4 ,0,512,72490.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+GIGABYTE,4.3,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,73990.0
+Lenovo,4.4,AMD Ryzen 7 Octa Core Processor,35.56,Windows,8,DDR4 ,0,512,55600.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+DELL,4.4,AMD Ryzen 5 Quad Core Processor,35.56,Windows,8,DDR4 ,0,512,49690.0
+ASUS,4.3,Intel Core i7 Processor,40.64,Windows,32,DDR5 ,0,1000,239990.0
+MSI,4.5,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,73990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+HP,4.4,AMD Ryzen 5 Hexa Core Processor,35.56,Windows,8,DDR4 ,0,512,52490.0
+HP,4.3,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,41990.0
+ASUS,4.3,Intel Pentium Quad Core Processor,35.56,Windows,8,DDR4 ,0,256,29990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+Nokia,4.4,Intel Core i5 Processor,35.56,Windows,8,DDR4 ,0,512,50490.0
+acer,4.4,Intel Core i7 Processor,39.62,Windows,16,DDR4 ,1000,512,96490.0
+Infinix,4.1,Intel Core i5 Processor,35.56,Windows,16,LPDDR4X ,0,512,37990.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+MSI,4.5,Intel Core i5 Processor,35.56,Windows,16,LPDDR4X ,0,512,74990.0
+ASUS,4.2,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,51990.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,1000,256,71345.0
+ASUS,4.5,Intel Core i7 Processor,39.62,Windows,16,DDR4 ,0,1000,101490.0
+MSI,4.3,Intel Core i7 Processor,39.62,Windows,32,DDR5 ,0,1000,274990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,199990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+DELL,3.9,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,41090.0
+Lenovo,4.3,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,256,50499.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+HP,4.3,AMD Ryzen 7 Octa Core Processor,40.89,Windows,8,DDR4 ,0,512,78950.0
+Lenovo,4.3,AMD Ryzen 5 Hexa Core Processor,35.56,Windows,16,LPDDR4X ,0,512,67990.0
+ASUS,4.0,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,187990.0
+Lenovo,4.2,Intel Core i7 Processor,35.56,Windows,16,DDR4 ,0,1000,102990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+ASUS,4.3,Intel Core i3 Processor,39.62,DOS,4,DDR4 ,0,256,35990.0
+HP,4.4,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,52575.0
+Lenovo,4.5,AMD Ryzen 7 Octa Core Processor,39.62,Windows,8,DDR4 ,0,512,73490.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,194990.0
+DELL,4.0,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,50990.0
+Lenovo,4.3,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,60125.0
+Lenovo,3.9,Intel Celeron Dual Core Processor,29.46,Windows,4,DDR4 ,0,256,26490.0
+HP,4.3,AMD Ryzen 7 Octa Core Processor,40.89,Windows,8,DDR4 ,0,512,80249.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,AMD Ryzen 7 Octa Core Processor,35.56,Windows,8,DDR4 ,0,1000,76990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+ASUS,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,36990.0
+MSI,4.6,Intel Core i7 Processor,39.62,Windows,16,DDR4 ,0,512,107790.0
+DELL,4.2,Intel Core i5 Processor,35.56,Windows,16,DDR4 ,0,512,75990.0
+ASUS,4.5,Intel Core i5 Processor,35.56,Windows,16,LPDDR4X ,0,512,95990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+acer,3.7,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,61999.0
+HP,4.3,Intel Celeron Dual Core Processor,35.56,Windows,8,DDR4 ,0,256,28990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+Lenovo,4.3,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,54990.0
+ASUS,4.3,Intel Core i7 Processor,39.62,Windows,16,DDR4 ,0,512,56990.0
+ASUS,5.0,Intel Core i5 Processor,35.56,Windows,8,DDR4 ,0,256,45990.0
+ASUS,4.3,Intel Core i3 Processor,35.81,Windows,8,DDR4 ,0,512,38216.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+MSI,4.1,Intel Core i7 Processor,39.62,Windows,8,DDR4 ,0,512,79990.0
+DELL,4.6,Intel Core i3 Processor,39.62,Windows,4,DDR4 ,1000,256,43990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+HP,4.3,AMD Ryzen 7 Octa Core Processor,40.89,Windows,16,DDR4 ,0,1000,108250.0
+MSI,4.3,Intel Core i9 Processor,43.94,Windows,32,DDR5 ,0,2000,389990.0
+DELL,3.7,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,67224.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+acer,4.4,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,1000,256,114990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+HP,4.2,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,69990.0
+Lenovo,4.5,AMD Ryzen 5 Hexa Core Processor,35.56,DOS,8,DDR4 ,0,512,69990.0
+Lenovo,4.3,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,79990.0
+Lenovo,4.4,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,256,37990.0
+Lenovo,4.5,AMD Ryzen 7 Octa Core Processor,39.62,Windows,8,DDR4 ,0,512,73490.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,194990.0
+Infinix,4.2,Intel Core i5 Processor,35.56,Windows,8,LPDDR4X ,0,512,36990.0
+ASUS,4.2,Intel Celeron Dual Core Processor,29.46,Windows,4,DDR4 ,0,128,29980.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.5,Intel Core i5 Processor,35.56,Windows,16,LPDDR4X ,0,512,95990.0
+DELL,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,41600.0
+DELL,3.7,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,67224.0
+ASUS,4.3,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,61986.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+HP,4.3,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,256,38999.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+Lenovo,4.3,Intel Core i3 Processor,35.56,Windows,4,DDR4 ,0,256,31990.0
+Lenovo,4.4,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,256,37990.0
+ASUS,4.2,Intel Celeron Dual Core Processor,29.46,Windows,4,DDR4 ,0,128,29980.0
+ASUS,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,46990.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+Lenovo,4.5,AMD Ryzen 7 Octa Core Processor,39.62,Windows,8,DDR4 ,0,512,73490.0
+Infinix,4.1,Intel Core i5 Processor,35.56,Windows,8,LPDDR4X ,0,512,37990.0
+Infinix,4.2,Intel Core i5 Processor,35.56,Windows,8,LPDDR4X ,0,512,36990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,194990.0
+acer,4.5,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,1000,256,61490.0
+HP,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,109990.0
+HP,4.2,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,54990.0
+Lenovo,4.0,AMD Ryzen 5 Hexa Core Processor,35.56,Windows,8,DDR4 ,0,512,50990.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+HP,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,159990.0
+ASUS,4.0,Intel Core i3 Processor,35.56,Windows,4,DDR4 ,0,256,34490.0
+ASUS,4.4,AMD Ryzen 9 Octa Core Processor,42.16,Windows,16,DDR4 ,0,512,99990.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+ASUS,4.4,Intel Core i5 Processor,33.78,Windows,8,LPDDR4X ,0,512,79990.0
+Infinix,4.2,Intel Celeron Quad Core Processor,35.56,Windows,4,LPDDR4X ,0,128,20990.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+HP,4.1,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,1000,256,41490.0
+DELL,4.3,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,206581.0
+ASUS,4.3,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,59990.0
+acer,4.3,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,62990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,194990.0
+Lenovo,4.3,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,44990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,194990.0
+ASUS,4.4,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,1000,256,62990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+Lenovo,4.5,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,61990.0
+ASUS,4.0,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,105990.0
+acer,5.0,Intel Core i7 Processor,39.62,Windows,16,DDR5 ,0,1000,155490.0
+Ultimus,4.3,Intel Celeron Dual Core Processor,35.81,Windows,4,LPDDR4 ,0,128,19990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+Infinix,4.3,Intel Core i5 Processor,39.62,Windows,8,LPDDR4X ,0,512,42990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+HP,3.9,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,63990.0
+acer,4.4,Intel Core i9 Processor,39.62,Windows,16,DDR4 ,0,1000,124990.0
+Lenovo,5.0,Intel Celeron Dual Core Processor,35.56,Windows,4,DDR4 ,0,256,30100.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+HP,4.3,Intel Core i7 Processor,43.94,Windows,32,DDR5 ,0,1000,199990.0
+acer,4.5,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,1000,256,61130.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,194990.0
+Lenovo,4.3,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,44990.0
+Lenovo,4.3,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,1000,256,40990.0
+ASUS,4.4,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,1000,75990.0
+HP,4.3,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,46890.0
+Lenovo,4.3,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,256,37390.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+Lenovo,4.3,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,68490.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+ASUS,3.8,Intel Core i7 Processor,35.56,Windows,16,DDR4 ,0,512,89990.0
+DELL,4.0,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,59790.0
+MSI,4.1,Intel Core i9 Processor,39.62,Windows,16,DDR4 ,0,1000,125990.0
+ASUS,4.3,AMD Ryzen 7 Octa Core Processor,40.64,Windows,32,DDR5 ,0,2000,249990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+ASUS,4.0,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,149990.0
+DELL,4.8,Intel Pentium Quad Core Processor,39.62,Windows,8,DDR4 ,0,256,36990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+ASUS,4.3,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,85990.0
+HP,4.2,AMD Ryzen 7 Octa Core Processor,35.56,Windows,8,DDR4 ,0,512,60990.0
+DELL,4.4,Intel Core i5 Processor,39.62,Windows,8,DDR5 ,0,512,87900.0
+DELL,4.8,Intel Pentium Quad Core Processor,39.62,Windows,8,DDR4 ,0,256,36990.0
+ASUS,4.3,AMD Ryzen 7 Octa Core Processor,40.64,Windows,32,DDR5 ,0,2000,249990.0
+ASUS,4.0,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,149990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+DELL,4.4,Intel Core i5 Processor,39.62,Windows,8,DDR5 ,0,512,87900.0
+acer,4.5,Intel Core i7 Processor,39.62,Windows,16,DDR4 ,1000,512,117990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+ASUS,4.3,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,85990.0
+DELL,4.3,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,1000,256,61497.0
+HP,4.3,AMD Ryzen 5 Hexa Core Processor,40.89,Windows,8,DDR4 ,0,512,70400.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+Lenovo,4.0,Intel Core i5 Processor,35.56,Windows,16,DDR4 ,0,512,69000.0
+Lenovo,3.7,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,64490.0
+ASUS,4.3,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,149990.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+HP,4.3,AMD Ryzen 5 Hexa Core Processor,40.89,Windows,8,DDR5 ,0,512,96579.0
+DELL,4.2,Intel Core i7 Processor,39.62,Windows,16,DDR4 ,0,512,101990.0
+ASUS,3.8,Intel Core i7 Processor,35.56,Windows,16,DDR4 ,0,512,89990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+HP,4.3,AMD Ryzen 7 Octa Core Processor,40.89,Windows,8,DDR5 ,0,512,94990.0
+MSI,4.3,Intel Core i7 Processor,43.94,Windows,32,DDR5 ,0,2000,314990.0
+DELL,4.3,Intel Core i3 Processor,38.1,Windows,8,DDR4 ,1000,256,46900.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,Intel Core i9 Processor,40.64,Windows,32,DDR5 ,0,2000,331990.0
+DELL,4.6,Intel Core i7 Processor,39.62,Windows,16,DDR5 ,0,1000,116490.0
+HP,4.3,AMD Ryzen 3 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,64590.0
+DELL,3.9,Intel Core i7 Processor,39.62,Windows,16,DDR5 ,0,1000,137990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+DELL,4.1,Intel Core i5 Processor,35.56,Windows,8,DDR4 ,0,512,55690.0
+Lenovo,4.2,Intel Core i7 Processor,39.62,Windows,16,DDR4 ,0,512,109990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+ASUS,4.3,Intel Core i7 Processor,39.62,Windows,8,DDR4 ,1000,256,79990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,40.64,Windows,16,DDR4 ,0,1000,130500.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,40.64,Windows,32,DDR5 ,0,2000,361990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,40.64,Windows,16,DDR5 ,0,1000,211990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+DELL,4.4,Intel Core i3 Processor,38.1,Windows,4,DDR4 ,0,256,39890.0
+MSI,3.7,Intel Core i7 Processor,39.62,Windows,16,DDR4 ,0,1000,139990.0
+Lenovo,4.5,AMD Ryzen 7 Octa Core Processor,39.62,Windows,8,DDR4 ,0,512,73490.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,194990.0
+MSI,4.5,Intel Core i7 Processor,39.62,Windows,16,DDR4 ,1000,256,99990.0
+HP,4.5,Intel Core i5 Processor,35.56,Windows,16,DDR4 ,0,512,66700.0
+DELL,4.3,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,1000,256,68990.0
+DELL,4.3,Intel Core i9 Processor,43.94,Windows,32,DDR4 ,0,1000,434830.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ALIENWARE,4.6,Intel Core i9 Processor,39.62,Windows,32,DDR4 ,0,1000,345390.0
+HP,4.3,Intel Core i7 Processor,39.62,Windows,16,DDR4 ,0,512,105822.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+Lenovo,4.2,Intel Core i5 Processor,39.62,Windows,16,DDR4 ,0,512,66990.0
+acer,3.5,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,86999.0
+ASUS,4.3,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,256,36990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+Lenovo,3.7,Intel Celeron Dual Core Processor,29.46,Windows,4,DDR4 ,0,256,23250.0
+DELL,4.3,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,42390.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+Lenovo,4.2,Intel Core i5 Processor,35.56,Windows,8,DDR4 ,0,512,58990.0
+ASUS,4.8,Intel Core i7 Processor,39.62,Windows,16,DDR4 ,0,1000,110990.0
+DELL,4.7,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,71990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,194990.0
+Lenovo,4.3,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,44990.0
+Lenovo,4.3,Intel Core i5 Processor,35.56,Windows,16,DDR4 ,0,512,84990.0
+ASUS,4.3,AMD Ryzen 7 Octa Core Processor,33.78,Windows,16,LPDDR5 ,0,1000,119990.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+MSI,4.3,Intel Core i7 Processor,39.62,Windows,32,DDR4 ,0,1000,214990.0
+MSI,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,512,48790.0
+DELL,4.3,AMD Ryzen 7 Octa Core Processor,40.64,Windows,16,DDR4 ,0,512,76000.0
+ASUS,5.0,AMD Ryzen 9 Octa Core Processor,34.04,Windows,32,LPDDR4X ,0,1000,224990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+Infinix,4.1,Intel Core i3 Processor,39.62,Windows,8,LPDDR4X ,0,512,49990.0
+ASUS,4.3,Intel Core i7 Processor,34.04,Windows,16,LPDDR5 ,0,512,164990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+HP,3.9,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,256,31490.0
+DELL,4.3,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,48077.0
+ASUS,4.6,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,154990.0
+ASUS,4.6,Intel Core i7 Processor,39.62,Windows,32,DDR4 ,0,1000,224990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+ASUS,4.4,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,65990.0
+Lenovo,4.5,AMD Ryzen 7 Octa Core Processor,39.62,Windows,8,DDR4 ,0,512,73490.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,194990.0
+Lenovo,5.0,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,38980.0
+HP,4.4,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,68990.0
+DELL,4.0,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,256,43090.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.6,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,154990.0
+ASUS,4.4,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,65990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+DELL,4.3,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,49348.0
+DELL,4.3,Intel Core i7 Processor,39.62,Windows,16,DDR5 ,0,512,221774.0
+Lenovo,4.0,AMD Ryzen 5 Hexa Core Processor,39.62,Windows,8,DDR4 ,0,512,73990.0
+DELL,4.3,AMD Ryzen 7 Octa Core Processor,40.64,Windows,16,DDR4 ,0,512,77990.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+ALIENWARE,4.1,Intel Core i7 Processor,39.62,Windows,16,DDR4 ,0,1000,214790.0
+ALIENWARE,4.9,Intel Core i7 Processor,39.62,Windows,16,DDR4 ,0,512,199990.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+DELL,4.3,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,48077.0
+DELL,4.3,AMD Ryzen 5 Hexa Core Processor,35.56,Windows,8,DDR4 ,0,512,52414.0
+ASUS,5.0,Intel Core i7 Processor,40.64,Windows,16,DDR5 ,0,1000,179990.0
+Lenovo,4.2,Intel Core i3 Processor,35.56,Windows,8,DDR4 ,0,256,36990.0
+Lenovo,4.2,Intel Core i3 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+DELL,4.3,Intel Core i5 Processor,35.56,Windows,16,DDR4 ,0,512,80615.0
+ASUS,4.3,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,155990.0
+RedmiBook,4.1,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,0,512,39990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,196990.0
+Infinix,3.6,Intel Core i7 Processor,35.56,Windows,16,LPDDR4X ,0,512,49990.0
+Lenovo,4.6,Intel Core i7 Processor,40.64,Windows,16,DDR4 ,0,1000,157990.0
+ASUS,4.3,Intel Core i5 Processor,39.62,Windows,16,DDR5 ,0,512,92990.0
+ASUS,4.3,AMD Ryzen 7 Octa Core Processor,40.64,Windows,16,DDR5 ,0,1000,171990.0
+Lenovo,4.2,AMD Ryzen 5 Quad Core Processor,39.62,Windows,8,DDR4 ,0,512,38705.0
+ASUS,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,85990.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,34.04,Windows,16,LPDDR5 ,0,1000,151990.0
+Lenovo,4.2,AMD Ryzen 3 Dual Core Processor,39.62,Windows,8,DDR4 ,0,512,35590.0
+ASUS,4.9,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR4 ,0,1000,150990.0
+ASUS,4.3,Intel Core i7 Processor,35.56,Windows,16,LPDDR3 ,0,2000,233990.0
+DELL,4.3,Intel Core i5 Processor,33.78,Windows,16,DDR5 ,0,512,76590.0
+HP,4.6,AMD Ryzen 7 Octa Core Processor,39.62,Windows,16,DDR4 ,0,512,90000.0
+Lenovo,4.5,AMD Ryzen 7 Octa Core Processor,39.62,Windows,8,DDR4 ,0,512,73490.0
+ASUS,4.3,AMD Ryzen 9 Octa Core Processor,39.62,Windows,16,DDR5 ,0,1000,194990.0
+ASUS,3.0,Intel Core i7 Processor,35.56,Windows,16,LPDDR5 ,0,512,125990.0
+Lenovo,4.2,Intel Core i5 Processor,39.62,Windows,8,DDR4 ,1000,256,50990.0
